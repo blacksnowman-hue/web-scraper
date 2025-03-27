@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Puppeteer cache
+puppeteer_cache/
+
+# Output files
+shark_tank_data.json
+shark_tank_data.csv
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
